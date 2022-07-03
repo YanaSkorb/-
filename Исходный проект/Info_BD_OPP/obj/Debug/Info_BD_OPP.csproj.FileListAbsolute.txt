@@ -1,0 +1,52 @@
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\bin\Debug\OPPDB.mdf
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\bin\Debug\OPPDB_log.ldf
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\bin\Debug\Info_BD_OPP.exe.config
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\bin\Debug\Info_BD_OPP.exe
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\bin\Debug\Info_BD_OPP.pdb
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.csprojAssemblyReference.cache
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Properties.Resources.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.csproj.GenerateResource.cache
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.csproj.CoreCompileInputs.cache
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.exe
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.pdb
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Авторизация.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Главная_форма.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Перевозчики.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Дабавить_карточку.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Добавить_договор.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Добавить_расписание.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Добавить_рейд.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Добавление_перевозчика.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Договора.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Карточки_маршрутов.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Пользователи.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Расписания.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Рейды.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Транспортные_средства.resources
+G:\Microsoft Visual Studio(old)\Projects1\Info_BD_OPP\Info_BD_OPP\obj\Debug\Info_BD_OPP.Добавить_ТС.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\bin\Debug\OPPDB.mdf
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\bin\Debug\OPPDB_log.ldf
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\bin\Debug\Info_BD_OPP.exe.config
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\bin\Debug\Info_BD_OPP.exe
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\bin\Debug\Info_BD_OPP.pdb
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.csprojAssemblyReference.cache
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Properties.Resources.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Авторизация.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Главная_форма.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Дабавить_карточку.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Добавить_договор.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Добавить_расписание.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Добавить_рейд.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Добавить_ТС.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Добавление_перевозчика.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Договора.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Карточки_маршрутов.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Перевозчики.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Пользователи.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Расписания.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Рейды.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.Транспортные_средства.resources
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.csproj.GenerateResource.cache
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.exe
+C:\Users\Aliaksei\Downloads\Программное средство\Программное средство\Исходный проект\Info_BD_OPP\obj\Debug\Info_BD_OPP.pdb
